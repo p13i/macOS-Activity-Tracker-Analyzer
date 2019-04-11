@@ -4,8 +4,8 @@ Analysis script for active window logger
 
 This repository is the second of two repositories related to this project. The [first project](https://github.com/p13i/macOS-Activity-Tracker) contains the Xcode project and build pipeline used for deploying an active window logging script to your Mac:
 
-* Analysis script (this): https://github.com/p13i/macOS-Activity-Tracker-Analyzer
 * Window logging script: https://github.com/p13i/macOS-Activity-Tracker
+* Analysis script (this): https://github.com/p13i/macOS-Activity-Tracker-Analyzer
 
 ## Installation
 ```shell
